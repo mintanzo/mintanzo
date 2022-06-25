@@ -1,12 +1,9 @@
-<code>🎓 Student: KPI / IM-11</code>
-<code>⚪ Community: Metarhia</code>
-<code>👷 Speciality: Software engineer / Backend</code><br>
+<code>🎓 Student: KPI / IK-91</code>
+<code>👷 Speciality: UI/UX / Frontend</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
-<code>📢 [Public talks: 0](TALKS.md)</code>
-<code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
-<code>🧑‍💻 Languages: JavaScript, C++</code>
-<code>📦 Tech stack: node.js</code>
+<code>🧑‍💻 Languages: JavaScript</code>
+<code>📦 Tech stack: HTML, JavaScript</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@your-nikname](https://telegram.me/your-nikname)</code>
-<code>📫 [your-email](mailto:your-email)</code>
+<code>💬 telegram: [@mintanzo](https://telegram.me/mintanzo)</code>
+<code>📫 [mintamorphosis@gmail.com](mailto:mintamorphosis@gmail.com)</code>
